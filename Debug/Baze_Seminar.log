@@ -1,0 +1,6 @@
+﻿  Baze_Seminar.cpp
+C:\Users\Mateo\Desktop\Baze_Seminar\Baze_Seminar.cpp(20,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mateo\Desktop\Baze_Seminar\Baze_Seminar.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mateo\Desktop\Baze_Seminar\Baze_Seminar.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Mateo\Desktop\Baze_Seminar\Baze_Seminar.cpp(70,23): warning C4018: '<': signed/unsigned mismatch
+  Baze_Seminar.vcxproj -> C:\Users\Mateo\Desktop\Baze_Seminar\Debug\Baze_Seminar.exe
